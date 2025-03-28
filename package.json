@@ -1,0 +1,20 @@
+{
+  "name": "loan-lending-website-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanshiee/loan-lending-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyanshiee/loan-lending-website/issues"
+  },
+  "homepage": "https://github.com/priyanshiee/loan-lending-website#readme"
+}
